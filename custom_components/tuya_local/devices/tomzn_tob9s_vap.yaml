@@ -34,25 +34,25 @@ secondary_entities:
       - id: 9
         type: integer
         name: value
-        unit: min
+        unit: sec
         range:
           min: 0
           max: 86400
-        mapping:
-          - scale: 60
-            step: 60
+  #        mapping:
+  #          - scale: 60
+  #            step: 60
   - entity: sensor
     category: diagnostic
     name: Energy
     dps:
       - id: 17
-        optional: true
         type: integer
+        optional: true
         name: sensor
         unit: kWh
-        class: total_increasing
+        class: measurement
         mapping:
-          - scale: 1000
+          - scale: 100
   - entity: sensor
     category: diagnostic
     class: current
