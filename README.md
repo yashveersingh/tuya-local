@@ -29,7 +29,6 @@ A similar but unrelated integration is
 your device is not supported by this integration, you may find it
 easier to set up using that as an alternative.
 
-
 ---
 
 ## Device support
@@ -101,7 +100,7 @@ follow the [instructions for adding a custom
 repository](https://hacs.xyz/docs/faq/custom_repositories) and then
 the integration will be available to install like any other.
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=make-all&repository=tuya-local&category=integration)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=yashveersingh&repository=tuya-local&category=integration)
 
 ## Configuration
 
@@ -113,6 +112,7 @@ instance.](https://my.home-assistant.io/badges/config_flow_start.svg)](https://m
 ### Choose your configuration path
 
 There are two options for configuring a device:
+
 - You can login to Tuya cloud with the Smart Life app and retrieve a list of devices and the necessary local connection data.
 - You can provide all the necessary information manually [as per the instructions below](#finding-your-device-id-and-local-key).
 
@@ -144,7 +144,6 @@ below](#finding-your-device-id-and-local-key).
 &nbsp;&nbsp;&nbsp;&nbsp;_(string) (Required)_ Local key retrieved
 [as per the instructions below](#finding-your-device-id-and-local-key).
 
-
 #### protocol_version
 
 &nbsp;&nbsp;&nbsp;&nbsp;_(string or float) (Required)_ Valid options are "auto", 3.1, 3.2, 3.3, 3.4.  If you aren't sure, choose "auto", but some 3.2 and maybe 3.4 devices may be misdetected as 3.3 (or vice-versa), so if your device does not seem to respond to commands reliably, try selecting between those protocol versions.
@@ -159,7 +158,6 @@ will be detected at this step and cause an immediate failure.  Note that each
 time you pair the device, the local key changes, so if you obtained the
 local key using the instructions below, then re-paired with your
 manufacturer's app, then the key will have changed already.
-
 
 ### Stage Two
 
@@ -280,7 +278,6 @@ Anko fans mostly work, except setting the speed does not seem to
 work. If you can figure out how to set the speed through the Tuya
 protocol for these devices, please leave feedback on Issue #22.
 
-
 ## Smart Switch issues
 
 It has been observed after a while that the current and
@@ -333,7 +330,6 @@ These support configuration as either heating or cooling controllers, but
 only have one output.  The HVAC mode is provided as an indicator of which
 mode they are in, but are set to readonly so that you cannot accidentally
 switch the thermostat to the wrong mode from HA.
-
 
 ## Finding your device ID and local key
 
