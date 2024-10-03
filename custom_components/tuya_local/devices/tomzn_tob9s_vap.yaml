@@ -8,10 +8,3 @@ primary_entity:
     - id: 1
       name: switch_1
       type: boolean
-    - id: 17
-      type: integer
-      name: sensor
-      unit: kWh
-      class: total_increasing
-      mapping:
-        - scale: 100
