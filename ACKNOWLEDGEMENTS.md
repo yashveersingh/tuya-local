@@ -477,7 +477,7 @@ Further device support has been made with the assistance of users. Please consid
 - [ceinmart](https://github.com/ceinmart) for assisting with support for Moes 4-gang switches.
 - [mihasybn](https://github.com/mihasybn) for assisting with support for Idea Heating Belt air conditioners.
 - [feeling001](https://github.com/feeling001) for contributing support for EcoPoint EV chargers.
-- [a-r-j-a-n](https://github.com/a-r-j-a-n) for contributing support for Poolex Arctic spa pool heatpumps.
+- [a-r-j-a-n](https://github.com/a-r-j-a-n) for contributing support for Poolex Arctic spa pool heatpump and LSC CCT+RGB ceiling light.
 - [Geek-MD](https://github.com/Geek-MD) for contributing support for generic 2 outlet + 2 USB smartplugs.
 - [TwoWheelPro](https://github.com/TwoWheelPro) for contributing support for Holman WX8 irrigation controllers.
 - [scrampker](https://github.com/scrampker) for assisting with support for Ironzon fingerprint locks.
@@ -693,3 +693,5 @@ Further device support has been made with the assistance of users. Please consid
 - [sorrison](https://github.com/sorrison) for contributing improvements to Sanden heat pump.
 - [OsaedYahya](https://github.com/OsaedYahya) for contributing support for MyQ TD8 vide doorbell.
 - [holgergrote](https://github.com/holgergrote) for contributing support for Sygonix Smarter dehumidifier.
+- [rmf1995](https://github.com/rmf1995) for contributing support for Giatsu VAW 2 heat pump water heater.
+- [murch1](https://github.com/murch1) for contributing support for Brilliant ceiling fan with light.

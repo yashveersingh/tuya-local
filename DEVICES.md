@@ -145,6 +145,7 @@
 - Ferroli Titano Twin water heater
 - Fisher air to water heat pump
 - Geyserwise TSE1 Geyser controller kit
+- Giatsu VAW 2 heat pump water heater
 - Hydrotherm Dynamic/X8 heat pump hot water systems (Gen 5 and 6)
 - ITS-4.5HD super water heat pump
 - Koi Duo HTW-TD-080KOID
@@ -211,6 +212,7 @@
 - Atomberg Gorilla fan V2
 - Atomi 52 inch ceiling fan
 - Breville AirDynamic 3D pedestal fan
+- Brilliant Ceiling fan with light
 - Carro ceiling fan with cool and warm white lights
 - Carro PN-04F02D fan with dimmable light
 - Casafan ECO Neo III ceiling fan with light
@@ -566,6 +568,7 @@ of device.
 - LightStar CCT track light
 - Loycco sound machine with nightlight (also sold as Momland nightlight with white noise)
 - Loginovo TV sync backlight
+- LSC Smart Connect CCT + RGB ceiling light
 - LSC smart connect RGB CCT lightbulb (similar to older generic bulbs, so may work for others)
 - Lytmi Fantasy/Neo 3 HDMI sync backlight
 - Malmbergs QS-WIFI-D02-TRIAC single dimmer module
